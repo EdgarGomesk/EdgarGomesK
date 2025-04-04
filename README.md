@@ -33,7 +33,7 @@
 
 - 🌱 Actualmente estoy mejorando mis habilidades en **Java (Spring Boot), TypeScript (Express.js y Nest.js) y React (Vite y Next.js).**
 
-- 📫 Cómo ponerse en contacto conmigo **gomescasseresb@gmail.com**
+- 📫 Cómo ponerse en contacto conmigo **edgarantonio321@outlook.es**
 
 ###
 
