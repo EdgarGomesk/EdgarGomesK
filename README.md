@@ -29,7 +29,7 @@
 
 <p align="left">Ingeniero de Software con experiencia en el desarrollo de aplicaciones utilizando tecnologías como Java con Spring Boot, TypeScript con Express.js y React con Vite y Next.js. Conocimientos en bases de datos relaciones y no relaciones como PostgreSQL, MySQL, y MongoDB. Habilidades en el uso de herramientas como GitHub, Node.js, Postman, Docker y TablePlus para el desarrollo y prueba de software.<br></p>
 
-- 🔭 Actualmente estoy trabajando en [CashTrackr](https://github.com/sandrobarros2608/CashTrackr](https://github.com/EdgarGomesk/Presupuestos))
+- 🔭 Actualmente estoy trabajando en [POS](https://github.com/EdgarGomesk/POS/tree/main)
 
 - 🌱 Actualmente estoy mejorando mis habilidades en **Java (Spring Boot), TypeScript (Express.js y Nest.js) y React (Vite y Next.js).**
 
